@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/send-email-api-gmail/precache-manifest.51f70ae5b206ab5ca598c3d74a470ae9.js"
+  "/send-email-api-gmail/precache-manifest.b22c0b00f913290ccabe654b541b0ac2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spa"});
